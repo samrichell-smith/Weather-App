@@ -1,6 +1,7 @@
 # Weather App
 
-This weather application provides real-time and accurate weather information, with a user friendly graphical interface.
+This weather application provides real-time and accurate weather information, with a user friendly graphical interface.'
+<img src='weatherappss.png'>
 
 <h2>Features</h2>
 <ul>
