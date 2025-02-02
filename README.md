@@ -1,6 +1,6 @@
 # Weather App
 <div style="display: flex; flex: column; justify-content: center;">
-  <p>This weather application provides real-time and accurate weather information, with a user friendly graphical interface.'</p>
+  <p>This weather application provides real-time and accurate weather information, with a user friendly graphical interface.</p>
 <div style="display: flex; justify-content: center; width: full">
   <img src='weatherappss.png' width='200'>
 </div>
